@@ -1,5 +1,5 @@
-const helloFn = () => 'hello';
-const worldFn = () => 'world';
+const helloFn = () => 'Hello';
+const worldFn = () => 'Wworld';
 
 function stitch() {
   let hello = helloFn();
